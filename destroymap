@@ -1,0 +1,320 @@
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Light Post' or thepart.Name == 'Street Light' then
+		thepart:Destroy()
+	end
+end
+
+game.Workspace.MAP.Map.bank:Destroy()
+game.Workspace.Lights:Destroy()
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):WaitForChild('Game-Houses'):GetChildren()) do
+	if thepart.Name == 'Apartment' or thepart.Name == 'Street Light' then
+		thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'wooden fence' or thepart.Name == 'wooden fence' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'cinder block' or thepart.Name == 'cinder block' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'concrete barrier' or thepart.Name == 'concrete barrier' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 3' or thepart.Name == 'slum house 3' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 4' or thepart.Name == 'slum house 4' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 7' or thepart.Name == 'slum house 7' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 6' or thepart.Name == 'slum house 6' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'tree' or thepart.Name == 'tree' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'tree 1' or thepart.Name == 'tree 1' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'tree 2' or thepart.Name == 'tree 2' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'tree 3' or thepart.Name == 'tree 3' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Sewer Light' or thepart.Name == 'Sewer Light' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'door' or thepart.Name == 'door' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 5' or thepart.Name == 'slum house 5' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Da Theatre' or thepart.Name == 'Da Theatre' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'metal pillar' or thepart.Name == 'metal pillar' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'wire fence' or thepart.Name == 'wire fence' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Fences' or thepart.Name == 'Fences' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'ChurchChair' or thepart.Name == 'ChurchChair' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 2' or thepart.Name == 'slum house 2' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Da Casino' or thepart.Name == 'Da Casino' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Sign' or thepart.Name == 'Sign' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'picnic bench' or thepart.Name == 'picnic bench' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'slum house 1' or thepart.Name == 'slum house 1' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Firedepartment' or thepart.Name == 'Firedepartment' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'broken house' or thepart.Name == 'broken house' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'SHOP' or thepart.Name == 'SHOP' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'SHOP' or thepart.Name == "Ubi's Resturant" then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Apartment' or thepart.Name == 'Apartment' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Phone Store' or thepart.Name == 'Phone Store' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Church' or thepart.Name == 'Church' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Photo' or thepart.Name == 'Photo' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'bench' or thepart.Name == 'bench' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Door' or thepart.Name == 'Door' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'oven' or thepart.Name == 'oven' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'oil barrel' or thepart.Name == 'oil barrel' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'garabage' or thepart.Name == 'garabage' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'trash' or thepart.Name == 'trash' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Meshes/mountain' or thepart.Name == 'Meshes/mountain' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Sewer Liquid' or thepart.Name == 'Sewer Liquid' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Spray' or thepart.Name == 'Spray' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Meshes/aDumpster' or thepart.Name == 'Meshes/aDumpster' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Lights' or thepart.Name == 'Lights' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'cracks' or thepart.Name == 'cracks' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Bush' or thepart.Name == 'bush' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'Trash Can' or thepart.Name == 'Trash Can' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'grave' or thepart.Name == 'grave' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):WaitForChild('Map'):GetChildren()) do
+	if thepart.Name == 'carpet' or thepart.Name == 'carpet' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):GetChildren()) do
+	if thepart.Name == 'Fences/UF' or thepart.Name == 'Fences/UF' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('MAP'):GetChildren()) do
+	if thepart.Name == 'CarnivalPlace' or thepart.Name == 'CarnivalPlace' then
+	    thepart:Destroy()
+	end
+end
+
+for i, thepart in pairs(game.Workspace:WaitForChild('Cashiers'):GetChildren()) do
+	if thepart.Name == 'CA$HIER' or thepart.Name == 'CA$HIER' then
+	    thepart:Destroy()
+	end
+end
